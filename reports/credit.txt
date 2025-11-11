@@ -1,0 +1,4 @@
+1,1500,credit
+3,2000,credit
+7,4500,credit
+10,600,credit

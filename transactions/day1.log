@@ -1,0 +1,15 @@
+TxnID,Amount,Type
+1,1500,credit
+2,500,withdrawal
+3,2000,credit
+4,750,withdrawal
+5,3000,deposit
+6,1000,withdrawal
+7,4500,credit
+8,1200,withdrawal
+9,2500,deposit
+10,600,credit
+11,1800,deposit
+12,900,withdrawal
+13,3200,deposit
+14,1500,withdrawal
